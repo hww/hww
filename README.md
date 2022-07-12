@@ -6,8 +6,6 @@ At the beginning of my career, I worked as a design engineer in the design and p
 
 As a result of this career path I am free to design both hardware and software products. 
 
-Translated with www.DeepL.com/Translator (free version)
-
 - 🔭 I’m currently working on Open GOAL Type System and LISP compiler with it.
 - 🌱 I’m currently learning Common LISP and LISP compiler infrastructure
 - 📫 How to reach me vial linkedin [valeriyap](https://www.linkedin.com/in/valeriyap/)
