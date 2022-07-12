@@ -10,7 +10,7 @@ As a result of this career path I am free to design both hardware and software p
 - 🌱 I’m currently learning Common LISP and LISP compiler infrastructure
 - 📫 How to reach me vial linkedin [valeriyap](https://www.linkedin.com/in/valeriyap/)
 
-Among programming languages, I especially like C, C++, and Common LISP. I try to use LISP wherever possible, even if it is a microcontroller :smile:
+Among programming languages, I especially like C, C++, and Common LISP. I try to use LISP wherever possible, even if it is a microcontroller :smile: I have my own workshop with turning, milling and other equipment, and in my spare time I do creative work.
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hww&langs_count=8&&hide=html,vba&layout=compact)](https://github.com/hww/github-readme-stats)
 
