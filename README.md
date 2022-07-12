@@ -8,7 +8,7 @@ As a result of this career path I am free to design both hardware and software p
 
 - 🔭 I’m currently working on Open GOAL Type System and LISP compiler with it.
 - 🌱 I’m currently learning Common LISP and LISP compiler infrastructure
-- 📫 How to reach me: linkedin [valeriyap](https://www.linkedin.com/in/valeriyap/)
+- 📫 How to reach me: linkedin [valeriyap](https://www.linkedin.com/in/valeriyap/) [portfolio](https://hww.github.io) 
 
 Among programming languages, I especially like C, C++, and Common LISP. I try to use LISP wherever possible, even if it is a microcontroller :smile: I have my own workshop with turning, milling and other equipment, and in my spare time I do creative work.
 
