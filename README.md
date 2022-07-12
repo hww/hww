@@ -1,15 +1,10 @@
 ### Hi there 👋
 
-**hww/hww** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am an experienced software and hardware designer in the Moscow area, and have worked in the game industry for the last 20 years.
 
-- 🔭 I’m currently working on Open GOAL Type System and LISP compiler with it
-- 🌱 I’m currently learning Common LISP
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- 🔭 I’m currently working on Open GOAL Type System and LISP compiler with it.
+- 🌱 I’m currently learning Common LISP and LISP compiler infrastructure
+- 📫 How to reach me vial linkedin [valeriyap](https://www.linkedin.com/in/valeriyap/)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hww&layout=compact)](https://github.com/hww/github-readme-stats)
 
