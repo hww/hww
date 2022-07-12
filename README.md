@@ -5,7 +5,7 @@ I am an experienced software and hardware designer in the Moscow area, and have 
 - 🔭 I’m currently working on Open GOAL Type System and LISP compiler with it.
 - 🌱 I’m currently learning Common LISP and LISP compiler infrastructure
 - 📫 How to reach me vial linkedin [valeriyap](https://www.linkedin.com/in/valeriyap/)
-- 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hww&langs_count=8&&hide=html,vba)](https://github.com/hww/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hww&langs_count=8&&hide=html,vba&layout=compact)](https://github.com/hww/github-readme-stats)
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=hww&show_icons=true)
