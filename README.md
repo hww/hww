@@ -16,14 +16,14 @@ As a result of this career path I am free to design both hardware and software p
 
 Among programming languages, I especially like C, C++, and Common LISP. I try to use LISP wherever possible, even if it is a microcontroller :smile: I have my own workshop with turning, milling and other equipment, and in my spare time I do creative work.
 
-<table style="border-collapse: collapse;border:none">
+<table>
   <hr>
-  <td>
+  <td style='border:none;'>
     
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hww&langs_count=8&&hide=html,vba&layout=compact)](https://github.com/hww/github-readme-stats)
     
   </td>
-  <td>
+  <td style='border:none;'>
     
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=hww&show_icons=true)
     
