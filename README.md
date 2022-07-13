@@ -15,15 +15,19 @@ As a result of this career path I am free to design both hardware and software p
 - 📫 How to reach me: linkedin [valeriyap](https://www.linkedin.com/in/valeriyap/) [portfolio](https://hww.github.io) 
 
 Among programming languages, I especially like C, C++, and Common LISP. I try to use LISP wherever possible, even if it is a microcontroller :smile: I have my own workshop with turning, milling and other equipment, and in my spare time I do creative work.
-
-<table border="0">
+<style>
+td, th {
+   border: none!important;
+}
+</style>
+<table>
 <hr>
-<td style="border:none;">
+<td>
     
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hww&langs_count=8&&hide=html,vba&layout=compact)](https://github.com/hww/github-readme-stats)
     
 </td>
-<td style="border:none;">
+<td>
     
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=hww&show_icons=true)
     
