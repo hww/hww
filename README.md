@@ -18,17 +18,17 @@ Among programming languages, I especially like C, C++, and Common LISP. I try to
 
 
 <div style="width: 100%; display: table;">
-        <div style="display: table-row; height: 100px;">
-            <div style="width: 50%; display: table-cell; background: green;">
+<div style="display: table-row; height: 100px;">
+<div style="width: 50%; display: table-cell; background: green;">
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hww&langs_count=8&&hide=html,vba&layout=compact)](https://github.com/hww/github-readme-stats)            
             
-            </div>
-            <div style="display: table-cell; background: blue;"> 
+</div>
+<div style="display: table-cell; background: blue;"> 
   
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=hww&show_icons=true)                
                 
-            </div>
-        </div>
-    </div>
+</div>
+</div>
+</div>
     
