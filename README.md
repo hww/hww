@@ -17,8 +17,15 @@ As a result of this career path I am free to design both hardware and software p
 Among programming languages, I especially like C, C++, and Common LISP. I try to use LISP wherever possible, even if it is a microcontroller :smile: I have my own workshop with turning, milling and other equipment, and in my spare time I do creative work.
 
 <style>
-td, th {
-   border: none!important;
+table {
+    border-collapse: collapse;
+}
+table, th, td {
+   border: 1px solid black;
+}
+blockquote {
+    border-left: solid blue;
+    padding-left: 10px;
 }
 </style>
 
