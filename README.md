@@ -19,10 +19,14 @@ Among programming languages, I especially like C, C++, and Common LISP. I try to
 <table>
   <hr>
   <td>
+    
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hww&langs_count=8&&hide=html,vba&layout=compact)](https://github.com/hww/github-readme-stats)
+    
   </td>
   <td>
+    
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=hww&show_icons=true)
+    
   </td>
   </hr>
   <table>
