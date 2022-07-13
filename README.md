@@ -16,30 +16,19 @@ As a result of this career path I am free to design both hardware and software p
 
 Among programming languages, I especially like C, C++, and Common LISP. I try to use LISP wherever possible, even if it is a microcontroller :smile: I have my own workshop with turning, milling and other equipment, and in my spare time I do creative work.
 
-<style>
-table {
-    border-collapse: collapse;
-}
-table, th, td {
-   border: 1px solid black;
-}
-blockquote {
-    border-left: solid blue;
-    padding-left: 10px;
-}
-</style>
 
-<table>
-<hr>
-<td>
+<div style="width: 100%; display: table;">
+        <div style="display: table-row; height: 100px;">
+            <div style="width: 50%; display: table-cell; background: green;">
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hww&langs_count=8&&hide=html,vba&layout=compact)](https://github.com/hww/github-readme-stats)            
+            
+            </div>
+            <div style="display: table-cell; background: blue;"> 
+  
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=hww&show_icons=true)                
+                
+            </div>
+        </div>
+    </div>
     
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hww&langs_count=8&&hide=html,vba&layout=compact)](https://github.com/hww/github-readme-stats)
-    
-</td>
-<td>
-    
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=hww&show_icons=true)
-    
-</td>
-</hr>
-<table>
